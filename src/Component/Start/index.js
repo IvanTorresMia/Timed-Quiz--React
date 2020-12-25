@@ -9,8 +9,8 @@ function Start() {
                 <div className="row top">
                     How Much do you know?
                 </div>
-                <div className="row">
-                    <button className="btn">
+                <div className="row middle">
+                    <button className="btn button-style">
                         Start
                     </button>
                 </div>

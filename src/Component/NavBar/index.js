@@ -8,7 +8,7 @@ function NavBar() {
         <header className="p-2 container-fluid Nav">
           <div className="row">
             <div className="col-lg text-center">
-              <h1 className="display-4">My Weather App</h1>
+              <h1 className="display-4">Code Quiz</h1>
             </div>
           </div>
         </header>
