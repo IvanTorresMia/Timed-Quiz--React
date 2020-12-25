@@ -5,8 +5,8 @@ function Start() {
 
     return (
         <div>
-            <div className="container">
-                <div className="row">
+            <div className="container start p-4">
+                <div className="row top">
                     How Much do you know?
                 </div>
                 <div className="row">
@@ -14,7 +14,7 @@ function Start() {
                         Start
                     </button>
                 </div>
-                <div className="row">
+                <div className="row bottom">
                     Timed Quiz
                 </div>
             </div>

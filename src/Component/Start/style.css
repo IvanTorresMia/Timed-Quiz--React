@@ -1,3 +1,4 @@
-.container {
-    align-items: center;
+.start {
+    width: 500px;
+    box-shadow: 5px 5px 10px rgb(139, 130, 130);
 }
