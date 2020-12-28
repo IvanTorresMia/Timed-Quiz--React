@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Questions() {
+function Questions({ title }) {
 
     return (
         <div>

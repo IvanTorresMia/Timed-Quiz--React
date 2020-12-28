@@ -6,15 +6,15 @@ function Start() {
     return (
         <div>
             <div className="container start p-4">
-                <div className="row top">
-                    How Much do you know?
+                <div className="top">
+                    <h3 className="lead">How Much do you know?</h3>
                 </div>
-                <div className="row middle">
+                <div className="middle">
                     <button className="btn button-style">
                         Start
                     </button>
                 </div>
-                <div className="row bottom">
+                <div className="bottom">
                     Timed Quiz
                 </div>
             </div>
