@@ -5,7 +5,7 @@ import './style.css'
 function NavBar() {
 
     return (
-        <header className="mb-5 border-bottom">
+        <header>
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark bottom-line">
         <a className="navbar-brand my-header p-3 text relative" href="/">
           QuizMaker

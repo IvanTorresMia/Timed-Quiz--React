@@ -4,7 +4,7 @@ function Questions({ title }) {
 
     return (
         <div>
-
+                
         </div>
     )
 }
