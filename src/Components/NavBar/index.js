@@ -8,7 +8,7 @@ function NavBar() {
         <header className="mb-5 border-bottom">
       <nav className="navbar navbar-expand-lg navbar-dark bg-dark bottom-line">
         <a className="navbar-brand my-header p-3 text relative" href="/">
-          Ivan Torres
+          QuizMaker
         </a>
         <button
           class="navbar-toggler"
